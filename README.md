@@ -1,4 +1,4 @@
-# Diversity Nexus Internship Assignments
+  # Diversity Nexus Internship Assignments
 
 This repository contains the Python assignments completed as part of the AI & ML Mastery Program – 60-Day Accelerated Plan. The focus is on building a strong foundation in Python programming, which is essential for learning Artificial Intelligence, Machine Learning, and Data Science concepts.
 
@@ -33,15 +33,19 @@ This approach helps build both coding confidence and logical thinking.
   - Python basics exercises and programs
 - Day 3/
   - Operators, strings, debugging, and practice problems
+- Day 4/
+  - Conditional logic, decision tracing, debugging, and practical programs
+  - Day_4_Python_Code/ contains examples with sample outputs in comments
 - README.md
 
 ## Current Progress
 
-| Day | Topic | Status |
-|-----|-------|--------|
+| Day   | Topic | Status |
+|-------|-------|--------|
 | Day 1 | Basic assignment setup and learning orientation | Completed |
 | Day 2 | Python basics and beginner programs | Completed |
 | Day 3 | Operators, strings, indexing, slicing, and debugging | Completed |
+| Day 4 | Conditional logic, comparisons, logical operators, and nested conditions | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
