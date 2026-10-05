@@ -37,6 +37,8 @@ This approach helps build both coding confidence and logical thinking.
   - Conditional logic, decision tracing, debugging, and practical programs
 - Day 5/
   - Python loops (`for`, `while`), `range()`, `break`, `continue`, nested loops, and 10 practice problems notebook
+- Day 6/
+  - Python functions (`def`, parameters, return, default arguments, `*args`, `**kwargs`), loop refactoring, practice problems notebook, and `day_06_utility_module.py`
 - README.md
 
 ## Current Progress
@@ -48,6 +50,7 @@ This approach helps build both coding confidence and logical thinking.
 | Day 3 | Operators, strings, indexing, slicing, and debugging | Completed |
 | Day 4 | Conditional logic, comparisons, logical operators, and nested conditions | Completed |
 | Day 5 | Python loops (`for`, `while`, `range()`), control statements (`break`, `continue`), and nested loops | Completed |
+| Day 6 | Python functions (define, pass, return, reuse, `*args`, `**kwargs`), refactoring, and utility module | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
