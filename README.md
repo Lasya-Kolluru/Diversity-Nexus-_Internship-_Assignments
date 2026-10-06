@@ -27,30 +27,30 @@ This approach helps build both coding confidence and logical thinking.
 
 ## Repository Structure
 
-- Day 1/
-  - Assignment files and related tasks
-- Day 2/
-  - Python basics exercises and programs
-- Day 3/
-  - Operators, strings, debugging, and practice problems
-- Day 4/
-  - Conditional logic, decision tracing, debugging, and practical programs
-- Day 5/
-  - Python loops (`for`, `while`), `range()`, `break`, `continue`, nested loops, and 10 practice problems notebook
-- Day 6/
-  - Python functions (`def`, parameters, return, default arguments, `*args`, `**kwargs`), loop refactoring, practice problems notebook, and `day_06_utility_module.py`
-- README.md
+- **Week 1/**
+  - `Day 1/`: Assignment files and orientation
+  - `Day 2/`: Python basics exercises and beginner programs
+  - `Day 3/`: Operators, strings, debugging, and practice problems
+  - `Day 4/`: Conditional logic, decision tracing, debugging, and practical programs
+  - `Day 5/`: Python loops (`for`, `while`, `range()`), control statements (`break`, `continue`), and practice notebook (`Day_05_Loop_Practice_Lasya_Kolluru.ipynb`)
+  - `Day 6/`: Python functions (`def`, parameters, return, default arguments, `*args`, `**kwargs`), loop refactoring, practice notebook (`Day_06_Function_Practice_Lasya_Kolluru.ipynb`), and utility module (`day_06_utility_module.py`)
+  - `Day 7/`: Week 1 Assessment & Python Revision (`Day_07_Revision_Lasya_Kolluru.ipynb`) with 5 core coding problems, boundary & edge case test suites, and mistake review
+- **Week 2/**
+  - `Day 1/`: Python Collections: Lists, Tuples & Sets notebook (`Week2_Day1_Lists_Tuples_Sets_Lasya_Kolluru.ipynb`) covering indexing, slicing, mutability vs immutability, set operations, debugging labs, shopping cart project, and duplicate removal utility
+- `README.md`
 
 ## Current Progress
 
-| Day   | Topic | Status |
-|-------|-------|--------|
-| Day 1 | Basic assignment setup and learning orientation | Completed |
-| Day 2 | Python basics and beginner programs | Completed |
-| Day 3 | Operators, strings, indexing, slicing, and debugging | Completed |
-| Day 4 | Conditional logic, comparisons, logical operators, and nested conditions | Completed |
-| Day 5 | Python loops (`for`, `while`, `range()`), control statements (`break`, `continue`), and nested loops | Completed |
-| Day 6 | Python functions (define, pass, return, reuse, `*args`, `**kwargs`), refactoring, and utility module | Completed |
+| Week | Day | Topic | Status |
+| :--- | :--- | :--- | :--- |
+| Week 1 | Day 1 | Basic assignment setup and learning orientation | Completed |
+| Week 1 | Day 2 | Python basics and beginner programs | Completed |
+| Week 1 | Day 3 | Operators, strings, indexing, slicing, and debugging | Completed |
+| Week 1 | Day 4 | Conditional logic, comparisons, logical operators, and nested conditions | Completed |
+| Week 1 | Day 5 | Python loops (`for`, `while`, `range()`), control statements (`break`, `continue`), and nested loops | Completed |
+| Week 1 | Day 6 | Python functions (define, pass, return, reuse, `*args`, `**kwargs`), refactoring, and utility module | Completed |
+| Week 1 | Day 7 | Week 1 AI Assessment: 5 Core Problems, Mistake Review & Reflection | Completed |
+| Week 2 | Day 1 | Lists, Tuples & Sets: Mutability, indexing, slicing, sets, shopping cart, and deduplication | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
