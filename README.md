@@ -1,4 +1,4 @@
-  # Diversity Nexus Internship Assignments
+# Diversity Nexus Internship Assignments
 
 This repository contains the Python assignments completed as part of the AI & ML Mastery Program – 60-Day Accelerated Plan. The focus is on building a strong foundation in Python programming, which is essential for learning Artificial Intelligence, Machine Learning, and Data Science concepts.
 
@@ -37,6 +37,7 @@ This approach helps build both coding confidence and logical thinking.
   - `Day 7/`: Week 1 Assessment & Python Revision (`Day_07_Revision_Lasya_Kolluru.ipynb`) with 5 core coding problems, boundary & edge case test suites, and mistake review
 - **Week 2/**
   - `Day 1/`: Python Collections: Lists, Tuples & Sets notebook (`Week2_Day1_Lists_Tuples_Sets_Lasya_Kolluru.ipynb`) covering indexing, slicing, mutability vs immutability, set operations, debugging labs, shopping cart project, and duplicate removal utility
+  - `Day 2/`: Python Dictionaries, Nested Dictionaries, Counter & Comprehensions notebook (`Week2_Day2_Dictionaries_Lasya_Kolluru.ipynb`) covering dictionary CRUD, methods (`keys`, `values`, `items`, `get`, `update`, `pop`), nested dictionaries, frequency counting with `collections.Counter`, list/dict comprehensions, debugging labs, Student Analyzer, Contact Analyzer (flat & nested), and Word Frequency Analyzer
 - `README.md`
 
 ## Current Progress
@@ -51,6 +52,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 1 | Day 6 | Python functions (define, pass, return, reuse, `*args`, `**kwargs`), refactoring, and utility module | Completed |
 | Week 1 | Day 7 | Week 1 AI Assessment: 5 Core Problems, Mistake Review & Reflection | Completed |
 | Week 2 | Day 1 | Lists, Tuples & Sets: Mutability, indexing, slicing, sets, shopping cart, and deduplication | Completed |
+| Week 2 | Day 2 | Dictionaries, Nested Dictionaries, Counter & Comprehensions: Student Analyzer, Contact Analyzer & Word Frequency Analyzer | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
