@@ -39,6 +39,7 @@ This approach helps build both coding confidence and logical thinking.
   - `Day 1/`: Python Collections: Lists, Tuples & Sets notebook (`Week2_Day1_Lists_Tuples_Sets_Lasya_Kolluru.ipynb`) covering indexing, slicing, mutability vs immutability, set operations, debugging labs, shopping cart project, and duplicate removal utility
   - `Day 2/`: Python Dictionaries, Nested Dictionaries, Counter & Comprehensions notebook (`Week2_Day2_Dictionaries_Lasya_Kolluru.ipynb`) covering dictionary CRUD, methods (`keys`, `values`, `items`, `get`, `update`, `pop`), nested dictionaries, frequency counting with `collections.Counter`, list/dict comprehensions, debugging labs, Student Analyzer, Contact Analyzer (flat & nested), and Word Frequency Analyzer
   - `Day 3/`: File I/O, CSV, JSON, Exceptions, Modules & Packages notebook (`Week2_Day3_FileIO_CSV_JSON_Exceptions_Lasya_Kolluru.ipynb`), standalone data processing script (`data_processing_Lasya_Kolluru.py`), utility module (`utils.py`), module demonstration (`main.py`), and data cleaning/error pipelines (`cleaned_students.csv`, `errors.csv`)
+  - `Day 4/`: OOP Basics: Classes, Objects, Constructors, Methods & Inheritance notebook (`Week2_Day4_OOP_Basics_Lasya_Kolluru.ipynb`), OOP practice script (`oop_practice_Lasya_Kolluru.py`), modular class definition (`student.py`), driver script (`main.py`), and Student Record System project
 - `README.md`
 
 ## Current Progress
@@ -55,6 +56,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 2 | Day 1 | Lists, Tuples & Sets: Mutability, indexing, slicing, sets, shopping cart, and deduplication | Completed |
 | Week 2 | Day 2 | Dictionaries, Nested Dictionaries, Counter & Comprehensions: Student Analyzer, Contact Analyzer & Word Frequency Analyzer | Completed |
 | Week 2 | Day 3 | File I/O, CSV, JSON, Exceptions, Modules & Packages: End-to-end data cleaning, error handling & export pipeline | Completed |
+| Week 2 | Day 4 | OOP Basics: Classes, Objects, Constructors, Methods, Inheritance & Modular Student Record System | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
