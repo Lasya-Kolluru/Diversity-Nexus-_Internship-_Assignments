@@ -41,6 +41,8 @@ This approach helps build both coding confidence and logical thinking.
   - `Day 3/`: File I/O, CSV, JSON, Exceptions, Modules & Packages notebook (`Week2_Day3_FileIO_CSV_JSON_Exceptions_Lasya_Kolluru.ipynb`), standalone data processing script (`data_processing_Lasya_Kolluru.py`), utility module (`utils.py`), module demonstration (`main.py`), and data cleaning/error pipelines (`cleaned_students.csv`, `errors.csv`)
   - `Day 4/`: OOP Basics: Classes, Objects, Constructors, Methods & Inheritance notebook (`Week2_Day4_OOP_Basics_Lasya_Kolluru.ipynb`), OOP practice script (`oop_practice_Lasya_Kolluru.py`), modular class definition (`student.py`), driver script (`main.py`), and Student Record System project
   - `Day 5/`: NumPy Arrays, Dimensions, Indexing, Slicing & Vectorized Operations notebook (`Week2_Day5_NumPy_Basics_Lasya_Kolluru.ipynb`), standalone NumPy assignment script (`numpy_assignment_Lasya_Kolluru.py`), covering 1D/2D/3D array creation, `ndim`/`shape`/`size`/`dtype`, positive & negative indexing, subarray slicing, vectorized arithmetic, boolean filtering, debugging labs, and Student Marks Analyzer project
+- **Week 3/**
+  - `Day 1/`: Pandas Basics & Exploratory Data Analysis notebook (`Week3_Day1_EDA_Lasya_Kolluru.ipynb`), standalone analysis script (`eda_assignment_Lasya_Kolluru.py`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering Series vs. DataFrame, inspection (`head`, `tail`, `info`, `describe`, `shape`), boolean filtering & projections, evidence-based answers to 15 business questions, data quality checks, and common error troubleshooting
 - `README.md`
 
 ## Current Progress
@@ -59,6 +61,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 2 | Day 3 | File I/O, CSV, JSON, Exceptions, Modules & Packages: End-to-end data cleaning, error handling & export pipeline | Completed |
 | Week 2 | Day 4 | OOP Basics: Classes, Objects, Constructors, Methods, Inheritance & Modular Student Record System | Completed |
 | Week 2 | Day 5 | NumPy Basics: Arrays, Dimensions, Indexing, Slicing, Vectorized Operations & Student Marks Analyzer | Completed |
+| Week 3 | Day 1 | Pandas Basics & EDA: Series & DataFrame, inspection, boolean filtering, 15 business questions, and data quality | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
