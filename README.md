@@ -43,6 +43,7 @@ This approach helps build both coding confidence and logical thinking.
   - `Day 5/`: NumPy Arrays, Dimensions, Indexing, Slicing & Vectorized Operations notebook (`Week2_Day5_NumPy_Basics_Lasya_Kolluru.ipynb`), standalone NumPy assignment script (`numpy_assignment_Lasya_Kolluru.py`), covering 1D/2D/3D array creation, `ndim`/`shape`/`size`/`dtype`, positive & negative indexing, subarray slicing, vectorized arithmetic, boolean filtering, debugging labs, and Student Marks Analyzer project
 - **Week 3/**
   - `Day 1/`: Pandas Basics & Exploratory Data Analysis notebook (`Week3_Day1_EDA_Lasya_Kolluru.ipynb`), standalone analysis script (`eda_assignment_Lasya_Kolluru.py`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering Series vs. DataFrame, inspection (`head`, `tail`, `info`, `describe`, `shape`), boolean filtering & projections, evidence-based answers to 15 business questions, data quality checks, and common error troubleshooting
+  - `Day 2/`: Week 2 Assessment: NumPy & Pandas Checkpoint notebook (`Week2_Assessment_NumPy_Pandas_Lasya_Kolluru.ipynb`), completed assessment submission files (`Assignment.docx` & `Assignment.pdf`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering 20 MCQs, timed NumPy array basics, boolean filtering, matrix multiplication (`*` vs `@`), pandas loading/inspection/filtering, debugging labs (IndexError, compound condition parentheses, numeric type casting), and Exploratory Data Analysis answering 15 core business questions
 - `README.md`
 
 ## Current Progress
@@ -62,6 +63,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 2 | Day 4 | OOP Basics: Classes, Objects, Constructors, Methods, Inheritance & Modular Student Record System | Completed |
 | Week 2 | Day 5 | NumPy Basics: Arrays, Dimensions, Indexing, Slicing, Vectorized Operations & Student Marks Analyzer | Completed |
 | Week 3 | Day 1 | Pandas Basics & EDA: Series & DataFrame, inspection, boolean filtering, 15 business questions, and data quality | Completed |
+| Week 3 | Day 2 | Week 2 Assessment: NumPy + Pandas Checkpoint, Timed Data Manipulation, Debugging & 15-Question Superstore EDA | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
