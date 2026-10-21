@@ -1,0 +1,4 @@
+# Week 3 Day 6 - Math for AI: Linear Algebra Requirements
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
