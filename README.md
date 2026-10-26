@@ -48,6 +48,8 @@ This approach helps build both coding confidence and logical thinking.
   - `Day 4/`: Data Cleaning & Preprocessing notebook (`Week3_Day4_Data_Cleaning_Lasya_Kolluru.ipynb`), sanitized dataset (`cleaned_superstore_sales.csv`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering missing value handling & imputation, duplicate elimination, string stripping & datetime casting, outlier detection & capping via 1.5 × IQR, One-Hot & Label encoding, and before/after quality report
   - `Day 5/`: Math for AI: Statistics & Probability notebook (`Week3_Day5_Statistics_Lasya_Kolluru.ipynb`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering measures of central tendency (Mean, Median, Mode), dispersion (Variance, Standard Deviation, IQR, Empirical rule), marginal/joint/conditional business risk probabilities, business statistics worksheet, distribution visualizations with markers, and statistical pitfalls
   - `Day 6/`: Math for AI: Linear Algebra & Gradients notebook (`Week3_Day6_Linear_Algebra_Lasya_Kolluru.ipynb`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering vectors, norms (L1/L2), dot product business revenue calculation, 2D feature matrix ($X$), linear model forward-pass matrix multiplication ($XW + b$), analytical gradients ($\nabla_W L$), Gradient Descent optimization loop with loss convergence curve, and dimension alignment rules
+- **Week 4/**
+  - `Day 1/`: Machine Learning Foundations – ML Problem Classification worksheet (`Week4_Day1_ML_Problem_Classification_Lasya_Kolluru.xlsx`, `Assignment.docx`, `Assignment.pdf`) covering ML vs. rule-based programming, supervised vs. unsupervised learning, classification vs. regression, feature and label identification, training/test splits and data leakage prevention, 10 business problem classification framework, common problem-framing error debugging, and conceptual foundations.
 - `README.md`
 
 ## Current Progress
@@ -72,6 +74,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 3 | Day 4 | Data Cleaning: Missing values, duplicates, type casting, 1.5 × IQR outliers, encoding, and before/after report | Completed |
 | Week 3 | Day 5 | Math for AI – Statistics: Mean, median, mode, variance, standard deviation, business probability & worksheet | Completed |
 | Week 3 | Day 6 | Math for AI – Linear Algebra: Vectors, matrices, dot product, matrix multiplication, gradients & gradient descent | Completed |
+| Week 4 | Day 1 | Machine Learning Foundations: ML vs Rule-Based Programming, Supervised/Unsupervised, 10 Business Problem Classifications, Train/Test Splits & Debugging | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
