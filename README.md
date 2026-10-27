@@ -50,6 +50,7 @@ This approach helps build both coding confidence and logical thinking.
   - `Day 6/`: Math for AI: Linear Algebra & Gradients notebook (`Week3_Day6_Linear_Algebra_Lasya_Kolluru.ipynb`), Superstore retail sales dataset (`superstore_sales.csv`), and environment dependencies (`requirements.txt`) covering vectors, norms (L1/L2), dot product business revenue calculation, 2D feature matrix ($X$), linear model forward-pass matrix multiplication ($XW + b$), analytical gradients ($\nabla_W L$), Gradient Descent optimization loop with loss convergence curve, and dimension alignment rules
 - **Week 4/**
   - `Day 1/`: Machine Learning Foundations – ML Problem Classification worksheet (`Week4_Day1_ML_Problem_Classification_Lasya_Kolluru.xlsx`, `Assignment.docx`, `Assignment.pdf`) covering ML vs. rule-based programming, supervised vs. unsupervised learning, classification vs. regression, feature and label identification, training/test splits and data leakage prevention, 10 business problem classification framework, common problem-framing error debugging, and conceptual foundations.
+  - `Day 2/`: ML Workflow & Data Preprocessing notebook (`Week4_Day2_Preprocessing_Lasya_Kolluru.ipynb`), customer churn dataset (`customer_churn_small.csv`), and assignment guides (`Assignment.docx`, `Assignment.pdf`) covering end-to-end scikit-learn preprocessing pipelines (`Pipeline`, `ColumnTransformer`), median & mode imputation (`SimpleImputer`), feature scaling (`StandardScaler`), one-hot encoding with unseen category protection (`OneHotEncoder(handle_unknown='ignore')`), train/test split leakage prevention, full logistic regression pipeline evaluation, 5 debugging labs (scaling before splitting, target leakage, unknown categories, numeric/string type mismatch, test refitting), and conceptual foundations.
 - `README.md`
 
 ## Current Progress
@@ -75,6 +76,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 3 | Day 5 | Math for AI – Statistics: Mean, median, mode, variance, standard deviation, business probability & worksheet | Completed |
 | Week 3 | Day 6 | Math for AI – Linear Algebra: Vectors, matrices, dot product, matrix multiplication, gradients & gradient descent | Completed |
 | Week 4 | Day 1 | Machine Learning Foundations: ML vs Rule-Based Programming, Supervised/Unsupervised, 10 Business Problem Classifications, Train/Test Splits & Debugging | Completed |
+| Week 4 | Day 2 | ML Workflow & Data Preprocessing: Leak-Free Scikit-Learn Pipelines, ColumnTransformer, Imputation, Scaling, One-Hot Encoding & Debugging | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 

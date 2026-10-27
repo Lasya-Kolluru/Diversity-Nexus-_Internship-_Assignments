@@ -1,0 +1,13 @@
+age,monthly_spend,city,plan_type,support_tickets,churn
+24,500,Hyderabad,Basic,2,Yes
+35,1200,Chennai,Premium,0,No
+29,,Hyderabad,Standard,1,No
+42,2200,Bengaluru,Premium,3,Yes
+31,900,Chennai,Basic,,No
+,,Hyderabad,Basic,4,Yes
+27,750,Visakhapatnam,Standard,1,No
+39,1800,Bengaluru,Premium,2,No
+33,1100,Chennai,Standard,0,No
+46,2500,Hyderabad,Premium,5,Yes
+28,650,Bengaluru,Basic,1,No
+36,1500,Chennai,Standard,2,Yes
