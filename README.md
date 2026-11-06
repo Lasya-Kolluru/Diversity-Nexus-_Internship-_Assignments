@@ -57,6 +57,7 @@ This approach helps build both coding confidence and logical thinking.
 - **Week 5/**
   - `Day 1/`: Logistic Regression: Pass/Fail Classifier notebook (`Week5_Day1_Logistic_Regression_Lasya_Kolluru.ipynb`) and student exam dataset (`student_exam_data.csv`) covering binary classification fundamentals, sigmoid activation ($\sigma(z)$), log-odds, probability estimation via `predict_proba()`, decision threshold tuning (0.3, 0.5, 0.7), multi-metric evaluation (Accuracy, Precision, Recall, F1-Score, ROC-AUC), Confusion Matrix heatmap, ROC Curve, 5 debugging labs (target leakage, unscaled features, training evaluation, accuracy paradox, probability interpretation), and own-words reflections.
   - `Day 2/`: KNN vs. Decision Trees: Model Comparison & Hyperparameters notebook (`Week5_Day2_KNN_Decision_Trees_Lasya_Kolluru.ipynb`) and student exam dataset (`student_exam_data.csv`) covering non-parametric classification, Euclidean distance and scaling requirements for KNN, recursive binary splitting and Gini Impurity for Decision Trees, hyperparameter tuning ($k \in [1, 9]$ and `max_depth` $\in [1, 8]$), Master Model Comparison Table (KNN, Decision Tree, Logistic Regression baseline), visual tree diagram (`plot_tree`), textual rules (`export_text`), model interpretability trade-offs, 5 debugging labs, and own-words reflections.
+  - `Day 3/`: Random Forest & Ensemble Learning notebook (`Week5_Day3_Random_Forest_Lasya_Kolluru.ipynb`) and student exam dataset (`student_exam_data.csv`) covering ensemble theory, bootstrap aggregation (bagging), random feature subspace selection (`max_features`), 100-tree forest training, Out-of-Bag (OOB) validation scoring, Gini feature importance (Mean Decrease in Impurity - MDI), Single Decision Tree vs. Random Forest comparison scorecard, horizontal feature importance bar chart, tree count convergence experiments ($n\_estimators \in [5, 200]$), 5 debugging labs, and own-words conceptual synthesis.
 - `README.md`
 
 ## Current Progress
@@ -88,6 +89,7 @@ This approach helps build both coding confidence and logical thinking.
 | Week 4 | Day 5 | Multiple Linear Regression & Feature Selection (Feature Selection, Model A/B/C Comparison, Residual Plots & Debugging) | Completed |
 | Week 5 | Day 1 | Logistic Regression: Pass/Fail Classifier (Sigmoid, Probabilities, Threshold Tuning, Metrics & Debugging) | Completed |
 | Week 5 | Day 2 | KNN vs. Decision Trees (Model Comparison Table, Hyperparameter Tuning, Interpretability & Debugging) | Completed |
+| Week 5 | Day 3 | Random Forest & Ensemble Learning (Ensemble Theory, Bagging, Feature Importance, OOB Scoring & Debugging) | Completed |
 
 ## 60-Day AI & ML Mastery Program Roadmap
 
